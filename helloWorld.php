@@ -14,6 +14,8 @@ echo "Amos!<br>";
 echo "Hello World!<br>";
 echo "Hello World!<br>";
 ecHo "Hello World!<br>";
+ecHo "test!<br>";
+
 ?>
 
 </body>
